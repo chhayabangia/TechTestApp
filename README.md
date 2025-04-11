@@ -6,7 +6,6 @@ Fully Functioning Tech Quiz application by adding Cypress for both component and
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
-- [Video](#Video)
 
 ## Installation
 Following will be required in this project:
@@ -27,8 +26,5 @@ Following will be required in this project:
 ## License
 This project is licensed under MIT.
 
-## Deployed Application
-https://candidate-search-1-koy2.onrender.com/
-
 ## Github Repository
-https://github.com/chhayabangia/Candidate_Search.git
+(https://github.com/chhayabangia/TechTestApp.git)
